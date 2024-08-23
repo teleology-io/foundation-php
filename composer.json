@@ -1,5 +1,5 @@
 {
-    "name": "foundation/foundation-php",
+    "name": "teleology/foundation-php",
     "description": "PHP Bindings for the Foundation API",
     "type": "library",
     "license": "MIT",

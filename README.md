@@ -4,7 +4,7 @@ The Foundation PHP Library is your gateway to effortless interaction with the Fo
 ## Installation
 
 ```
-composer require foundation/foundation-php
+composer require teleology/foundation-php
 ```
 
 ## Usage Example:
